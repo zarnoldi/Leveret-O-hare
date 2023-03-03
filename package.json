@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "dependencies",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --update scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dart-sass": "^1.25.0"
+  }
+}
